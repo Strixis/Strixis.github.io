@@ -1,0 +1,23 @@
+#chessBoard {
+    border-collapse: collapse;
+    text-align: center;
+}
+
+.board {
+    width: 20px;
+    height: 20px;
+    border: 1px solid #000;
+    background-color: whitesmoke;
+}
+
+.white {
+    width: 60px;
+    height: 60px;
+    font-size: 45px;
+    background-color: white;
+}
+
+.black {
+    background-color: #ccc;
+    font-size: 45px;
+}
